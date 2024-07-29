@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:salmon_crate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:salmon",
+    "count": 9
+  }
+}

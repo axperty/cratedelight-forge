@@ -1,0 +1,20 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:any_mod_loaded",
+      "values": [
+        "jagmkiwis"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:kiwifruit_crate"
+    }
+  ],
+  "result": {
+    "id": "jagmkiwis:kiwi_fruit",
+    "count": 9
+  }
+}

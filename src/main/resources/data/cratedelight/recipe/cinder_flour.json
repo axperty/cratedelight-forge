@@ -1,0 +1,20 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:any_mod_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:cinder_flour_bag"
+    }
+  ],
+  "result": {
+    "id": "create:cinder_flour",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:sugar_bag"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sugar",
+    "count": 9
+  }
+}

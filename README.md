@@ -1,10 +1,10 @@
 # Crate Delight
 
-<a href="https://www.curseforge.com/minecraft/mc-mods/crate-delight-forge"><img src="https://cf.way2muchnoise.eu/full_958291_downloads.svg" alt="Curseforge Downloads"></a>
-<a href="https://discord.gg/e2BQx4bbsU"><img alt="Discord" src="https://img.shields.io/discord/1194733791818821663?color=brightgreen&label=Discord"></a>
+[![CurseForge Download](https://cf.way2muchnoise.eu/full_957811_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/crate-delight-fabric)
+[![Discord Community](https://img.shields.io/discord/1194733791818821663?color=brightgreen&label=Discord)](https://discord.gg/e2BQx4bbsU)
 
-<img src="https://cdn.modrinth.com/data/9rlXSyLg/images/c741ee61d02d1d45dd85222e826e3e6dd787e837.png">
-<hr>
+![Crate Delight](https://cdn.modrinth.com/data/9rlXSyLg/images/c741ee61d02d1d45dd85222e826e3e6dd787e837.png)
+___
 
 ### Overview
 
@@ -16,7 +16,7 @@ Your contributions to this project allows Crate Delight to be improved to delive
 
 ### Features
 
-This mod adds thirteen new type of blocks to the game that are useful to save storage, new blocks are constantly added with updates:
+This mod adds ten new type of blocks to the game that are useful to save storage, new blocks are constantly added with updates:
 
 - Carrot Crate
 - Potato Crate
@@ -37,15 +37,11 @@ This mod adds thirteen new type of blocks to the game that are useful to save st
 
 It also adds crates and bags for the following mods:
 
-- Alex's Mobs
 - Create
+- BetterEnd
 - Naturalist
+- Expanded Delight
+- Jagm's Kiwis
 - Nutritious Feast
-- Jegm's Kiwis
 
-If you would like Crate Delight to have support for other mods, send your suggestions [on GitHub,](https://github.com/axperty/cratedelight-forge/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)
-
-### Fabric Version
-
-This mod is also available for Fabric, you can see its repository [here.](https://github.com/axperty/cratedelight-fabric/)
-
+If you would like Crate Delight to have support for other mods, send your suggestions [on GitHub,](https://github.com/axperty/cratedelight-fabric/issues/new) or you can also join the [Discord server.](https://discord.gg/yweZ2agkDw)

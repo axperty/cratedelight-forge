@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:egg_crate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:egg",
+    "count": 9
+  }
+}

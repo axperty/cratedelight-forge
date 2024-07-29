@@ -1,0 +1,20 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_not_loaded",
+      "values": [
+        "farmersdelight"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:potato_crate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:potato",
+    "count": 9
+  }
+}

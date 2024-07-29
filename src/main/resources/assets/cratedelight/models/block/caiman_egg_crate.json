@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "cratedelight:block/caiman_egg_crate_side",
-    "bottom": "cratedelight:block/crate_bottom",
-    "top": "cratedelight:block/caiman_egg_crate_top"
-  }
-}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:cocoabeans_bag"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cocoa_beans",
+    "count": 9
+  }
+}

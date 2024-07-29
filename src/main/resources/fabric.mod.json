@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "cratedelight",
+  "version": "2024.07.12-1.21-fabric",
+  "name": "Crate Delight",
+  "description": "A mod that adds more crates and bags to the game.",
+  "authors": [
+    "Axperty"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/axperty/projects"
+  },
+  "license": "MIT",
+  "icon": "assets/cratedelight/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.axperty.cratedelight.CrateDelight"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

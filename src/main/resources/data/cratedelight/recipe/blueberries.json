@@ -1,0 +1,20 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:any_mod_loaded",
+      "values": [
+        "nutritious-feast"
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:blueberry_crate"
+    }
+  ],
+  "result": {
+    "id": "nutritious-feast:blueberries",
+    "count": 9
+  }
+}

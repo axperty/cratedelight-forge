@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:berry_crate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sweet_berries",
+    "count": 9
+  }
+}

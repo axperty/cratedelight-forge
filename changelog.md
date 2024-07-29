@@ -10,4 +10,4 @@
 </ul>
 <hr/>
 
-<p>Your feedback is important to make improvements to this mod, submit your ideas <a href="https://forms.gle/1rHcPN5v4k8nE9fr5">on this form</a> or report bugs on <a href="https://github.com/axperty/cratedelight-forge">GitHub.</a></p>
+<p>Your feedback is important to make improvements to this mod, submit your ideas <a href="https://forms.gle/1rHcPN5v4k8nE9fr5">on this form</a> or report bugs on <a href="https://github.com/axperty/cratedelight-fabric">GitHub.</a></p>

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cratedelight:golden_apple_crate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:golden_apple",
+    "count": 9
+  }
+}
