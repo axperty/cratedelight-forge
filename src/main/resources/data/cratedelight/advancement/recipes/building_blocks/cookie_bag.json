@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:cookie_bag"
+        "recipes": [
+          "cratedelight:cookie_bag"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

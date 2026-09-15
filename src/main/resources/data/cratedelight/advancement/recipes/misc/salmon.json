@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:salmon"
+        "recipes": [
+          "cratedelight:salmon"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

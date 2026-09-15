@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:pufferfish"
+        "recipes": [
+          "cratedelight:pufferfish"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:golden_apple"
+        "recipes": [
+          "cratedelight:golden_apple"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

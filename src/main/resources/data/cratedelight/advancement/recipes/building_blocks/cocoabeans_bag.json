@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:cocoabeans_bag"
+        "recipes": [
+          "cratedelight:cocoabeans_bag"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:beetroot_seeds"
+        "recipes": [
+          "cratedelight:beetroot_seeds"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

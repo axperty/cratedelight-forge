@@ -11,7 +11,7 @@
     "sources": "https://github.com/axperty/cratedelight"
   },
   "license": "${mod_license}",
-  "icon": "assets/${mod_id}/logo.png",
+  "icon": "assets/cratedelight/logo.png",
   "environment": "*",
   "entrypoints": {
     "main": [
@@ -20,7 +20,7 @@
   },
   "depends": {
     "fabricloader": ">=0.19.3",
-    "minecraft": "~26.2",
+    "minecraft": ">=26.2",
     "java": ">=25",
     "fabric-api": "*"
   }

@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:sugar_bag"
+        "recipes": [
+          "cratedelight:sugar_bag"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

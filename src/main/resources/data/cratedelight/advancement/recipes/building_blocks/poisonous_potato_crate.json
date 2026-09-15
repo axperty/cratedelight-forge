@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:poisonous_potato_crate"
+        "recipes": [
+          "cratedelight:poisonous_potato_crate"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

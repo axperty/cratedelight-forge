@@ -23,7 +23,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:pumpkin_slice_crate"
+        "recipes": [
+          "cratedelight:pumpkin_slice_crate"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

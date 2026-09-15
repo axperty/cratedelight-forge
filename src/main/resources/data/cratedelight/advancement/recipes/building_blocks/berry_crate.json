@@ -15,7 +15,9 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:berry_crate"
+        "recipes": [
+          "cratedelight:berry_crate"
+        ]
       },
       "trigger": "minecraft:recipe_unlocked"
     }
