@@ -24,7 +24,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:carrots"
+        "recipes": ["cratedelight:carrots"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

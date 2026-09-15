@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:bread"
+        "recipes": ["cratedelight:bread"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

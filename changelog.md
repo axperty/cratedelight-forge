@@ -4,9 +4,7 @@
 
 ### ✨ What's New:
 
-- First test of leaves bag for all tree types.
-    - Bags need fix for texture position.
-
+- Added support for Minecraft 26.3.
 ***
 
 ### 📝 Feedback and Support:

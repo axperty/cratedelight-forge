@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:tropical_fish"
+        "recipes": ["cratedelight:tropical_fish"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

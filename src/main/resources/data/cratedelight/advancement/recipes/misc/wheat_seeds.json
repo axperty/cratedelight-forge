@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:wheat_seeds"
+        "recipes": ["cratedelight:wheat_seeds"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

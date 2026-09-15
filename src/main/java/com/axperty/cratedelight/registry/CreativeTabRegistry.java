@@ -57,16 +57,5 @@ public class CreativeTabRegistry {
                 output.accept(BlockRegistry.PUMPKIN_SEEDS_BAG.get());
                 output.accept(BlockRegistry.MELON_SEEDS_BAG.get());
                 output.accept(BlockRegistry.BEETROOT_SEEDS_BAG.get());
-                output.accept(BlockRegistry.OAK_LEAVES_BAG.get());
-                output.accept(BlockRegistry.SPRUCE_LEAVES_BAG.get());
-                output.accept(BlockRegistry.BIRCH_LEAVES_BAG.get());
-                output.accept(BlockRegistry.JUNGLE_LEAVES_BAG.get());
-                output.accept(BlockRegistry.ACACIA_LEAVES_BAG.get());
-                output.accept(BlockRegistry.DARK_OAK_LEAVES_BAG.get());
-                output.accept(BlockRegistry.MANGROVE_LEAVES_BAG.get());
-                output.accept(BlockRegistry.CHERRY_LEAVES_BAG.get());
-                output.accept(BlockRegistry.PALE_OAK_LEAVES_BAG.get());
-                output.accept(BlockRegistry.AZALEA_LEAVES_BAG.get());
-                output.accept(BlockRegistry.FLOWERING_AZALEA_LEAVES_BAG.get());
             }).build());
 }

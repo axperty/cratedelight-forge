@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:leaf_litter_bag"
+        "recipes": ["cratedelight:leaf_litter_bag"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

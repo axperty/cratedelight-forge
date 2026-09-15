@@ -84,9 +84,6 @@ public class ItemRegistry {
     // Leaf Litter Bag Item
     public static final DeferredItem<BlockItem> LEAF_LITTER_BAG_ITEM = ITEMS.registerSimpleBlockItem("leaf_litter_bag", BlockRegistry.LEAF_LITTER_BAG);
 
-    // Oak Leaves Bag Item
-    public static final DeferredItem<BlockItem> OAK_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("oak_leaves_bag", BlockRegistry.OAK_LEAVES_BAG);
-
     // Wheat Seeds Bag Item
     public static final DeferredItem<BlockItem> WHEAT_SEEDS_BAG_ITEM = ITEMS.registerSimpleBlockItem("wheat_seeds_bag", BlockRegistry.WHEAT_SEEDS_BAG);
 
@@ -98,34 +95,4 @@ public class ItemRegistry {
 
     // Beetroot Seeds Bag Item
     public static final DeferredItem<BlockItem> BEETROOT_SEEDS_BAG_ITEM = ITEMS.registerSimpleBlockItem("beetroot_seeds_bag", BlockRegistry.BEETROOT_SEEDS_BAG);
-
-    // Spruce Leaves Bag Item
-    public static final DeferredItem<BlockItem> SPRUCE_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("spruce_leaves_bag", BlockRegistry.SPRUCE_LEAVES_BAG);
-
-    // Birch Leaves Bag Item
-    public static final DeferredItem<BlockItem> BIRCH_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("birch_leaves_bag", BlockRegistry.BIRCH_LEAVES_BAG);
-
-    // Jungle Leaves Bag Item
-    public static final DeferredItem<BlockItem> JUNGLE_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("jungle_leaves_bag", BlockRegistry.JUNGLE_LEAVES_BAG);
-
-    // Acacia Leaves Bag Item
-    public static final DeferredItem<BlockItem> ACACIA_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("acacia_leaves_bag", BlockRegistry.ACACIA_LEAVES_BAG);
-
-    // Dark Oak Leaves Bag Item
-    public static final DeferredItem<BlockItem> DARK_OAK_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("dark_oak_leaves_bag", BlockRegistry.DARK_OAK_LEAVES_BAG);
-
-    // Mangrove Leaves Bag Item
-    public static final DeferredItem<BlockItem> MANGROVE_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("mangrove_leaves_bag", BlockRegistry.MANGROVE_LEAVES_BAG);
-
-    // Cherry Leaves Bag Item
-    public static final DeferredItem<BlockItem> CHERRY_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("cherry_leaves_bag", BlockRegistry.CHERRY_LEAVES_BAG);
-
-    // Pale Oak Leaves Bag Item
-    public static final DeferredItem<BlockItem> PALE_OAK_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("pale_oak_leaves_bag", BlockRegistry.PALE_OAK_LEAVES_BAG);
-
-    // Azalea Leaves Bag Item
-    public static final DeferredItem<BlockItem> AZALEA_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("azalea_leaves_bag", BlockRegistry.AZALEA_LEAVES_BAG);
-
-    // Flowering Azalea Leaves Bag Item
-    public static final DeferredItem<BlockItem> FLOWERING_AZALEA_LEAVES_BAG_ITEM = ITEMS.registerSimpleBlockItem("flowering_azalea_leaves_bag", BlockRegistry.FLOWERING_AZALEA_LEAVES_BAG);
 }

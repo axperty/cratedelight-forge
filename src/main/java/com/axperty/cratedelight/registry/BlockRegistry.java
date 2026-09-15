@@ -112,10 +112,6 @@ public class BlockRegistry {
     public static final DeferredBlock<Block> LEAF_LITTER_BAG = BLOCKS.registerBlock("leaf_litter_bag", Block::new,
             () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
 
-    // Oak Leaves Bag
-    public static final DeferredBlock<Block> OAK_LEAVES_BAG = BLOCKS.registerBlock("oak_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
     // Wheat Seeds Bag
     public static final DeferredBlock<Block> WHEAT_SEEDS_BAG = BLOCKS.registerBlock("wheat_seeds_bag", Block::new,
             () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
@@ -130,45 +126,5 @@ public class BlockRegistry {
 
     // Beetroot Seeds Bag
     public static final DeferredBlock<Block> BEETROOT_SEEDS_BAG = BLOCKS.registerBlock("beetroot_seeds_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Spruce Leaves Bag
-    public static final DeferredBlock<Block> SPRUCE_LEAVES_BAG = BLOCKS.registerBlock("spruce_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Birch Leaves Bag
-    public static final DeferredBlock<Block> BIRCH_LEAVES_BAG = BLOCKS.registerBlock("birch_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Jungle Leaves Bag
-    public static final DeferredBlock<Block> JUNGLE_LEAVES_BAG = BLOCKS.registerBlock("jungle_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Acacia Leaves Bag
-    public static final DeferredBlock<Block> ACACIA_LEAVES_BAG = BLOCKS.registerBlock("acacia_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Dark Oak Leaves Bag
-    public static final DeferredBlock<Block> DARK_OAK_LEAVES_BAG = BLOCKS.registerBlock("dark_oak_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Mangrove Leaves Bag
-    public static final DeferredBlock<Block> MANGROVE_LEAVES_BAG = BLOCKS.registerBlock("mangrove_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Cherry Leaves Bag
-    public static final DeferredBlock<Block> CHERRY_LEAVES_BAG = BLOCKS.registerBlock("cherry_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Pale Oak Leaves Bag
-    public static final DeferredBlock<Block> PALE_OAK_LEAVES_BAG = BLOCKS.registerBlock("pale_oak_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Azalea Leaves Bag
-    public static final DeferredBlock<Block> AZALEA_LEAVES_BAG = BLOCKS.registerBlock("azalea_leaves_bag", Block::new,
-            () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
-
-    // Flowering Azalea Leaves Bag
-    public static final DeferredBlock<Block> FLOWERING_AZALEA_LEAVES_BAG = BLOCKS.registerBlock("flowering_azalea_leaves_bag", Block::new,
             () -> BlockBehaviour.Properties.ofFullCopy(Blocks.WOOL.white()).mapColor(MapColor.WOOL));
 }

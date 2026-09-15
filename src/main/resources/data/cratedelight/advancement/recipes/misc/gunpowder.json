@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:gunpowder"
+        "recipes": ["cratedelight:gunpowder"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

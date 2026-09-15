@@ -24,7 +24,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:potatoes"
+        "recipes": ["cratedelight:potatoes"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

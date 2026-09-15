@@ -24,7 +24,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:carrot_crate"
+        "recipes": ["cratedelight:carrot_crate"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

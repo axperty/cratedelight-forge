@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:brown_eggs"
+        "recipes": ["cratedelight:brown_eggs"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

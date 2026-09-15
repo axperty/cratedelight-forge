@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:glowberry_crate"
+        "recipes": ["cratedelight:glowberry_crate"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

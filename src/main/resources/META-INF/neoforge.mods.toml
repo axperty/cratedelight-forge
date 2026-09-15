@@ -7,8 +7,8 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 authors="${mod_authors}"
-displayURL = "https://github.com/axperty/cratedelight"
-logoFile="assets/${mod_id}/logo.png"
+displayURL = "https://axperty.com/cratedelight"
+iconFile="assets/cratedelight/logo.png"
 description="${mod_description}"
 
 [[dependencies.${mod_id}]]

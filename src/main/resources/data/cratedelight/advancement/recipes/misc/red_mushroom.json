@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:red_mushroom"
+        "recipes": ["cratedelight:red_mushroom"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

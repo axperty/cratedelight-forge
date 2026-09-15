@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "cratedelight:melon_seeds"
+        "recipes": ["cratedelight:melon_seeds"]
       },
       "trigger": "minecraft:recipe_unlocked"
     }

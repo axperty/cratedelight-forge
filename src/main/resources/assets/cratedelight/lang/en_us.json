@@ -50,21 +50,9 @@
   "block.cratedelight.pufferfish_crate": "Pufferfish Crate",
   "block.cratedelight.tropical_fish_crate": "Tropical Fish Crate",
   "block.cratedelight.leaf_litter_bag": "Leaf Litter Bag",
-  "block.cratedelight.oak_leaves_bag": "Oak Leaves Bag",
   "block.cratedelight.wheat_seeds_bag": "Wheat Seeds Bag",
   "block.cratedelight.pumpkin_seeds_bag": "Pumpkin Seeds Bag",
   "block.cratedelight.melon_seeds_bag": "Melon Seeds Bag",
   "block.cratedelight.beetroot_seeds_bag": "Beetroot Seeds Bag",
-
-  "block.cratedelight.spruce_leaves_bag": "Spruce Leaves Bag",
-  "block.cratedelight.birch_leaves_bag": "Birch Leaves Bag",
-  "block.cratedelight.jungle_leaves_bag": "Jungle Leaves Bag",
-  "block.cratedelight.acacia_leaves_bag": "Acacia Leaves Bag",
-  "block.cratedelight.dark_oak_leaves_bag": "Dark Oak Leaves Bag",
-  "block.cratedelight.mangrove_leaves_bag": "Mangrove Leaves Bag",
-  "block.cratedelight.cherry_leaves_bag": "Cherry Leaves Bag",
-  "block.cratedelight.pale_oak_leaves_bag": "Pale Oak Leaves Bag",
-  "block.cratedelight.azalea_leaves_bag": "Azalea Leaves Bag",
-  "block.cratedelight.flowering_azalea_leaves_bag": "Flowering Azalea Leaves Bag",
   "itemGroup.cratedelight": "Crate Delight"
 }

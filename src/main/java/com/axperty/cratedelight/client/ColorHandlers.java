@@ -23,12 +23,5 @@ public class ColorHandlers {
 
     @SubscribeEvent
     public static void registerBlockTints(RegisterColorHandlersEvent.BlockTintSources event) {
-        event.register(List.of(BlockTintSources.foliage()), BlockRegistry.OAK_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.constant(FOLIAGE_EVERGREEN)), BlockRegistry.SPRUCE_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.constant(FOLIAGE_BIRCH)), BlockRegistry.BIRCH_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.foliage()), BlockRegistry.JUNGLE_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.foliage()), BlockRegistry.ACACIA_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.foliage()), BlockRegistry.DARK_OAK_LEAVES_BAG.get());
-        event.register(List.of(BlockTintSources.foliage()), BlockRegistry.MANGROVE_LEAVES_BAG.get());
     }
 }
